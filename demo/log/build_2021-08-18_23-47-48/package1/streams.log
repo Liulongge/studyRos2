@@ -1,0 +1,58 @@
+[0.014s] Invoking command in '/home/parallels/Documents/code/studyRos2/demo/build/package1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/parallels/Documents/code/studyRos2/demo/src/package1 -DCMAKE_INSTALL_PREFIX=/home/parallels/Documents/code/studyRos2/demo/install/package1
+[0.174s] -- The C compiler identification is GNU 9.3.0
+[0.278s] -- The CXX compiler identification is GNU 9.3.0
+[0.291s] -- Check for working C compiler: /usr/bin/cc
+[0.404s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.406s] -- Detecting C compiler ABI info
+[0.577s] -- Detecting C compiler ABI info - done
+[0.587s] -- Detecting C compile features
+[0.587s] -- Detecting C compile features - done
+[0.589s] -- Check for working CXX compiler: /usr/bin/c++
+[0.773s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.774s] -- Detecting CXX compiler ABI info
+[0.964s] -- Detecting CXX compiler ABI info - done
+[0.977s] -- Detecting CXX compile features
+[0.978s] -- Detecting CXX compile features - done
+[0.998s] -- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.022s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.024s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.152s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.260s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.261s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.262s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/parallels/Documents/code/studyRos2/demo/src/package1/include>
+[1.262s] -- Configured cppcheck exclude dirs and/or files: 
+[1.263s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.263s] -- Configured cpplint exclude dirs and/or files: 
+[1.265s] -- Added test 'lint_cmake' to check CMake code style
+[1.265s] -- Added test 'uncrustify' to check C / C++ code style
+[1.265s] -- Configured uncrustify additional arguments: 
+[1.266s] -- Added test 'xmllint' to check XML markup files
+[1.292s] -- Configuring done
+[1.295s] -- Generating done
+[1.295s] -- Build files have been written to: /home/parallels/Documents/code/studyRos2/demo/build/package1
+[1.302s] Invoked command in '/home/parallels/Documents/code/studyRos2/demo/build/package1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/parallels/Documents/code/studyRos2/demo/src/package1 -DCMAKE_INSTALL_PREFIX=/home/parallels/Documents/code/studyRos2/demo/install/package1
+[1.303s] Invoking command in '/home/parallels/Documents/code/studyRos2/demo/build/package1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/parallels/Documents/code/studyRos2/demo/build/package1 -- -j2 -l2
+[1.407s] [35m[1mScanning dependencies of target node1[0m
+[1.455s] [ 50%] [32mBuilding CXX object CMakeFiles/node1.dir/src/node1.cpp.o[0m
+[1.514s] [100%] [32m[1mLinking CXX executable node1[0m
+[1.570s] [100%] Built target node1
+[1.588s] Invoked command in '/home/parallels/Documents/code/studyRos2/demo/build/package1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/parallels/Documents/code/studyRos2/demo/build/package1 -- -j2 -l2
+[1.791s] Invoking command in '/home/parallels/Documents/code/studyRos2/demo/build/package1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/parallels/Documents/code/studyRos2/demo/build/package1
+[1.801s] -- Install configuration: ""
+[1.803s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/lib/package1/node1
+[1.808s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/ament_index/resource_index/package_run_dependencies/package1
+[1.809s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/ament_index/resource_index/parent_prefix_path/package1
+[1.809s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/environment/ament_prefix_path.sh
+[1.809s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/environment/ament_prefix_path.dsv
+[1.809s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/environment/path.sh
+[1.811s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/environment/path.dsv
+[1.811s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/local_setup.bash
+[1.811s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/local_setup.sh
+[1.812s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/local_setup.zsh
+[1.812s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/local_setup.dsv
+[1.812s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/package.dsv
+[1.812s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/ament_index/resource_index/packages/package1
+[1.812s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/cmake/package1Config.cmake
+[1.812s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/cmake/package1Config-version.cmake
+[1.812s] -- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/package.xml
+[1.814s] Invoked command in '/home/parallels/Documents/code/studyRos2/demo/build/package1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/parallels/Documents/code/studyRos2/demo/build/package1

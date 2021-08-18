@@ -1,0 +1,10 @@
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/install.dir
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/list_install_components.dir
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/rebuild_cache.dir
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/edit_cache.dir
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/test.dir
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/install/local.dir
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/node1.dir
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/install/strip.dir
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/package1_uninstall.dir
+/home/parallels/Documents/code/studyRos2/demo/build/package1/CMakeFiles/uninstall.dir

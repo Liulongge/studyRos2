@@ -1,0 +1,52 @@
+-- The C compiler identification is GNU 9.3.0
+-- The CXX compiler identification is GNU 9.3.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/parallels/Documents/code/studyRos2/demo/src/package1/include>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/parallels/Documents/code/studyRos2/demo/build/package1
+[35m[1mScanning dependencies of target node1[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/node1.dir/src/node1.cpp.o[0m
+[100%] [32m[1mLinking CXX executable node1[0m
+[100%] Built target node1
+-- Install configuration: ""
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/lib/package1/node1
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/ament_index/resource_index/package_run_dependencies/package1
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/ament_index/resource_index/parent_prefix_path/package1
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/environment/ament_prefix_path.sh
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/environment/ament_prefix_path.dsv
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/environment/path.sh
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/environment/path.dsv
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/local_setup.bash
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/local_setup.sh
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/local_setup.zsh
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/local_setup.dsv
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/package.dsv
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/ament_index/resource_index/packages/package1
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/cmake/package1Config.cmake
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/cmake/package1Config-version.cmake
+-- Installing: /home/parallels/Documents/code/studyRos2/demo/install/package1/share/package1/package.xml

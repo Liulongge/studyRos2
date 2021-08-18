@@ -1,0 +1,2 @@
+Invoking command in '/home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub': /usr/bin/cmake --build /home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub -- -j2 -l2
+Invoked command in '/home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub' returned '2': /usr/bin/cmake --build /home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub -- -j2 -l2

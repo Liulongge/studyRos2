@@ -1,0 +1,50 @@
+[0.013s] Invoking command in '/home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub -- -j2 -l2
+[0.050s] -- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.063s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.191s] -- Found rclcpp: 2.3.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.233s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.237s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.333s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.371s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.373s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.483s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.530s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.532s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.532s] -- Configured cppcheck include dirs: 
+[0.533s] -- Configured cppcheck exclude dirs and/or files: 
+[0.534s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.535s] -- Configured cpplint exclude dirs and/or files: 
+[0.536s] -- Added test 'lint_cmake' to check CMake code style
+[0.537s] -- Added test 'uncrustify' to check C / C++ code style
+[0.538s] -- Configured uncrustify additional arguments: 
+[0.539s] -- Added test 'xmllint' to check XML markup files
+[0.541s] -- Configuring done
+[0.560s] -- Generating done
+[0.562s] -- Build files have been written to: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub
+[0.659s] [35m[1mScanning dependencies of target listener[0m
+[0.711s] [ 50%] Built target talker
+[0.768s] [ 75%] [32mBuilding CXX object CMakeFiles/listener.dir/src/subscriber_member_function.cpp.o[0m
+[3.177s] [100%] [32m[1mLinking CXX executable listener[0m
+[3.394s] [100%] Built target listener
+[3.406s] Invoked command in '/home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub -- -j2 -l2
+[3.424s] Invoking command in '/home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub
+[3.433s] -- Install configuration: ""
+[3.434s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/lib/cpp_pubsub/talker
+[3.434s] -- Installing: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/lib/cpp_pubsub/listener
+[3.438s] -- Set runtime path of "/home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/lib/cpp_pubsub/listener" to ""
+[3.438s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[3.438s] -- Installing: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[3.438s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[3.438s] -- Installing: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[3.440s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[3.440s] -- Installing: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[3.440s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[3.440s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[3.440s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[3.440s] -- Installing: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[3.441s] -- Installing: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[3.441s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[3.441s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[3.441s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[3.441s] -- Up-to-date: /home/parallels/Documents/code/studyRos2/publishAndSubscribe/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[3.443s] Invoked command in '/home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/parallels/Documents/code/studyRos2/publishAndSubscribe/build/cpp_pubsub
